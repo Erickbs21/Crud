@@ -1,0 +1,51 @@
+.navibar-futurista {
+    background-color: #f8f9fa;
+    color: #212529;
+}
+
+.navibar-futurista .nav-link { 
+    color: #212529;
+}
+
+.navibar-futurista .navbar-brando{
+    color: #212529;
+}
+/*login*/
+.navbar-futurista {
+    background-color: #f8f9fa; /* Fondo claro */
+    color: #212529; /* Texto oscuro */
+}
+.navbar-futurista .nav-link {
+    color: #212529 !important; /* Texto oscuro */
+}
+.navbar-futurista .navbar-brand {
+    color: #212529 !important;
+}
+.dropdown-menu-dark {
+    background-color: #343a40; /* Fondo oscuro para dropdown */
+    color: #f8f9fa;
+}
+.dropdown-menu-dark .dropdown-item {
+    color: #f8f9fa !important;
+}
+
+/*banner ya login*/
+.navbar-futurista {
+    background-color: #f8f9fa; /* Fondo claro */
+    color: #212529;
+}
+
+.navbar-futurista .navbar-nav .nav-link.dropdown-toggle span {
+    color: #ffffff !important; /* Texto blanco para el nombre de usuario */
+}
+
+.avatar-circle {
+    background-color: #007bff; /* Fondo azul para el avatar */
+    color: #ffffff; /* Texto blanco */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+}

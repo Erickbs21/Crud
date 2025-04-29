@@ -1,0 +1,8 @@
+2025-04-29 08:21:45 | ERROR | API REST | Error al obtener productos | Excepción: HttpRequestException | Response status code does not indicate success: 520 (<none>). |    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.Json.HttpClientJsonExtensions.<FromJsonAsyncCore>g__Core|12_0[TValue,TJsonOptions](HttpClient client, Task`1 responseTask, Boolean usingResponseHeadersRead, CancellationTokenSource linkedCTS, Func`4 deserializeMethod, TJsonOptions jsonOptions, CancellationToken cancellationToken)
+   at AppFuturista.Services.ApiRestService.ObtenerProductosAsync() in /home/yann/Descargas/Crud/Services/ApiRestService.cs:line 38
+2025-04-29 08:21:45 | ERROR | API | Error al consultar API REST | Excepción: HttpRequestException | Response status code does not indicate success: 520 (<none>). |    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.Json.HttpClientJsonExtensions.<FromJsonAsyncCore>g__Core|12_0[TValue,TJsonOptions](HttpClient client, Task`1 responseTask, Boolean usingResponseHeadersRead, CancellationTokenSource linkedCTS, Func`4 deserializeMethod, TJsonOptions jsonOptions, CancellationToken cancellationToken)
+   at AppFuturista.Services.ApiRestService.ObtenerProductosAsync() in /home/yann/Descargas/Crud/Services/ApiRestService.cs:line 38
+   at AppFuturista.Services.ApiRestService.ObtenerProductosAsync() in /home/yann/Descargas/Crud/Services/ApiRestService.cs:line 48
+   at AppFuturista.Controllers.ApiController.Rest() in /home/yann/Descargas/Crud/Controllers/ApiController.cs:line 31

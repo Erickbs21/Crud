@@ -1,0 +1,231 @@
+2025-04-29 06:52:54 | Sistema | Usuario administrador predeterminado creado
+2025-04-29 06:53:07 | Autenticación | Inicio de sesión exitoso: admin
+2025-04-29 06:53:07 | Sistema | Datos de productos inicializados con ejemplos
+2025-04-29 06:53:07 | Navegación | Usuario: admin - Acceso a: /Panel
+2025-04-29 06:53:07 | Productos | Consulta de todos los productos
+2025-04-29 06:53:17 | Navegación | Usuario: admin - Acceso a: /Productos/ObtenerProducto
+2025-04-29 06:53:17 | Productos | Consulta del producto: Laptop Cuántica (ID: a0afb828-dd24-4786-b501-cdc63f309204)
+2025-04-29 06:53:22 | Navegación | Usuario: admin - Acceso a: /Productos/Editar/a0afb828-dd24-4786-b501-cdc63f309204
+2025-04-29 06:53:22 | Productos | Producto actualizado: Laptop Cuántica (ID: a0afb828-dd24-4786-b501-cdc63f309204)
+2025-04-29 06:53:22 | Productos | Consulta de todos los productos
+2025-04-29 06:53:22 | Navegación | Usuario: admin - Acceso a: /Panel
+2025-04-29 06:53:26 | Navegación | Usuario: admin - Acceso a: /Productos/Eliminar
+2025-04-29 06:53:26 | Productos | Producto eliminado: Laptop Cuántica (ID: a0afb828-dd24-4786-b501-cdc63f309204)
+2025-04-29 06:53:26 | Navegación | Usuario: admin - Acceso a: /Panel
+2025-04-29 06:53:26 | Productos | Consulta de todos los productos
+2025-04-29 06:53:27 | Navegación | Usuario: admin - Acceso a: /Productos/ObtenerProducto
+2025-04-29 06:53:27 | Productos | Consulta del producto: Silla Ergonómica Inteligente (ID: e7b130c4-812c-4e0c-8264-cbb0d9836b48)
+2025-04-29 06:53:41 | Productos | Consulta de todos los productos
+nel
+2025-04-29 06:53:52 | Navegación | Usuario: admin - Acceso a: /Productos/ObtenerProducto
+2025-04-29 06:53:52 | Productos | Consulta del producto: Silla Ergonómica Inteligente (ID: e7b130c4-812c-4e0c-8264-cbb0d9836b48)
+2025-04-29 06:53:57 | Navegación | Usuario: admin - Acceso a: /Productos/Editar/e7b130c4-812c-4e0c-8264-cbb0d9836b48
+2025-04-29 06:53:57 | Productos | Producto actualizado: Silla Ergonómica Inteligente (ID: e7b130c4-812c-4e0c-8264-cbb0d9836b48)
+2025-04-29 06:53:57 | Productos | Consulta de todos los productos
+nel
+2025-04-29 06:54:14 | Productos | Consulta de todos los productos
+2025-04-29 06:54:14 | Navegación | Usuario: admin - Acceso a: /Panel
+2025-04-29 06:54:17 | Navegación | Usuario: admin - Acceso a: /Panel
+2025-04-29 06:54:24 | Productos | Consulta de todos los productos
+2025-04-29 06:54:24 | Navegación | Usuario: admin - Acceso a: /Panel
+2025-04-29 06:54:29 | Autenticación | Cierre de sesión: admin
+2025-04-29 06:55:39 | Autenticación | Inicio de sesión exitoso: admin
+2025-04-29 06:55:39 | Productos | Consulta de todos los productos
+nel
+2025-04-29 06:55:46 | Navegación | Usuario: admin - Acceso a: /Panel/Bitacora
+2025-04-29 06:55:53 | Navegación | Usuario: admin - Acceso a: /Api/Rest
+2025-04-29 06:55:53 | API REST | Consultando productos desde https://fakestoreapi.com/products
+2025-04-29 06:55:54 | API REST | Obtenidos 20 productos de la API
+2025-04-29 06:56:06 | Navegación | Usuario: admin - Acceso a: /Panel
+2025-04-29 06:56:16 | Productos | Consulta de todos los productos
+2025-04-29 06:56:16 | Navegación | Usuario: admin - Acceso a: /Panel
+2025-04-29 06:58:04 | Productos | Consulta de todos los productos
+2025-04-29 06:58:04 | Navegación | Usuario: admin - Acceso a: /Panel
+2025-04-29 06:58:30 | Productos | Consulta de todos los productos
+2025-04-29 06:58:30 | Navegación | Usuario: admin - Acceso a: /Panel
+2025-04-29 06:59:38 | Autenticación | Cierre de sesión: admin
+2025-04-29 07:23:26 | Autenticación | Inicio de sesión exitoso: admin
+2025-04-29 07:23:26 | Navegación | Usuario: admin - Acceso a: /Panel
+2025-04-29 07:23:26 | Productos | Consulta de todos los productos
+2025-04-29 07:23:48 | Autenticación | Cierre de sesión: admin
+2025-04-29 07:36:29 | Autenticación | Inicio de sesión exitoso: admin
+2025-04-29 07:36:30 | Navegación | Usuario: admin - Acceso a: /Panel
+2025-04-29 07:36:30 | Productos | Consulta de todos los productos
+2025-04-29 07:40:58 | Navegación | Usuario: admin - Acceso a: /Panel
+2025-04-29 07:41:00 | Navegación | Usuario: admin - Acceso a: /Panel
+2025-04-29 07:41:24 | Navegación | Usuario: admin - Acceso a: /Productos/Crear
+2025-04-29 07:41:33 | Productos | Consulta de todos los productos
+nel
+2025-04-29 07:41:35 | Navegación | Usuario: admin - Acceso a: /Productos/ObtenerProducto
+2025-04-29 07:41:35 | Productos | Consulta del producto: Silla Ergonómica Inteligente (ID: e7b130c4-812c-4e0c-8264-cbb0d9836b48)
+2025-04-29 07:41:37 | Navegación | Usuario: admin - Acceso a: /Productos/Editar/e7b130c4-812c-4e0c-8264-cbb0d9836b48
+2025-04-29 07:41:37 | Productos | Producto actualizado: Silla Ergonómica Inteligente (ID: e7b130c4-812c-4e0c-8264-cbb0d9836b48)
+2025-04-29 07:41:37 | Navegación | Usuario: admin - Acceso a: /Panel
+2025-04-29 07:41:38 | Navegación | Usuario: admin - Acceso a: /Productos/ObtenerProducto
+2025-04-29 07:41:38 | Productos | Consulta del producto: Silla Ergonómica Inteligente (ID: e7b130c4-812c-4e0c-8264-cbb0d9836b48)
+2025-04-29 07:41:41 | Navegación | Usuario: admin - Acceso a: /Productos/Editar/e7b130c4-812c-4e0c-8264-cbb0d9836b48
+2025-04-29 07:41:41 | Productos | Producto actualizado: Silla Ergonómica Inteligente (ID: e7b130c4-812c-4e0c-8264-cbb0d9836b48)
+2025-04-29 07:41:41 | Productos | Consulta de todos los productos
+nel
+2025-04-29 07:41:44 | Navegación | Usuario: admin - Acceso a: /Productos/ObtenerProducto
+2025-04-29 07:41:44 | Productos | Consulta del producto: Silla Ergonómica Inteligente (ID: e7b130c4-812c-4e0c-8264-cbb0d9836b48)
+2025-04-29 07:41:46 | Productos | Producto actualizado: Silla Ergonómica Inteligente (ID: e7b130c4-812c-4e0c-8264-cbb0d9836b48)
+2025-04-29 07:41:46 | Productos | Consulta de todos los productos
+nel
+2025-04-29 07:41:48 | Productos | Consulta del producto: Silla Ergonómica Inteligente (ID: e7b130c4-812c-4e0c-8264-cbb0d9836b48)
+2025-04-29 07:41:48 | Navegación | Usuario: admin - Acceso a: /Productos/ObtenerProducto
+2025-04-29 07:41:52 | Navegación | Usuario: admin - Acceso a: /Productos/Editar/e7b130c4-812c-4e0c-8264-cbb0d9836b48
+2025-04-29 07:41:52 | Productos | Producto actualizado: Silla Ergonómica Inteligente (ID: e7b130c4-812c-4e0c-8264-cbb0d9836b48)
+2025-04-29 07:41:52 | Navegación | Usuario: admin - Acceso a: /Panel
+2025-04-29 07:41:54 | Navegación | Usuario: admin - Acceso a: /Productos/ObtenerProducto
+2025-04-29 07:41:54 | Productos | Consulta del producto: Silla Ergonómica Inteligente (ID: e7b130c4-812c-4e0c-8264-cbb0d9836b48)
+2025-04-29 07:41:57 | Navegación | Usuario: admin - Acceso a: /Productos/Editar/e7b130c4-812c-4e0c-8264-cbb0d9836b48
+2025-04-29 07:41:57 | Productos | Producto actualizado: Silla Ergonómica Inteligente (ID: e7b130c4-812c-4e0c-8264-cbb0d9836b48)
+2025-04-29 07:41:57 | Navegación | Usuario: admin - Acceso a: /Panel
+2025-04-29 07:41:58 | Navegación | Usuario: admin - Acceso a: /Productos/ObtenerProducto
+2025-04-29 07:41:58 | Productos | Consulta del producto: Silla Ergonómica Inteligente (ID: e7b130c4-812c-4e0c-8264-cbb0d9836b48)
+2025-04-29 07:42:02 | Productos | Producto actualizado: Silla Ergonómica Inteligente (ID: e7b130c4-812c-4e0c-8264-cbb0d9836b48)
+2025-04-29 07:42:02 | Navegación | Usuario: admin - Acceso a: /Productos/Editar/e7b130c4-812c-4e0c-8264-cbb0d9836b48
+2025-04-29 07:42:02 | Productos | Consulta de todos los productos
+nel
+2025-04-29 07:42:10 | Navegación | Usuario: admin - Acceso a: /Productos/ObtenerProducto
+2025-04-29 07:42:10 | Productos | Consulta del producto: Silla Ergonómica Inteligente (ID: e7b130c4-812c-4e0c-8264-cbb0d9836b48)
+2025-04-29 07:48:45 | Productos | Consulta de todos los productos
+nel
+2025-04-29 07:48:46 | Productos | Consulta de todos los productos
+2025-04-29 07:48:46 | Navegación | Usuario: admin - Acceso a: /Panel
+2025-04-29 07:48:54 | Autenticación | Cierre de sesión: admin
+2025-04-29 07:53:35 | Autenticación | Inicio de sesión exitoso: admin
+2025-04-29 07:53:35 | Productos | Consulta de todos los productos
+nel
+2025-04-29 07:53:42 | Productos | Consulta de todos los productos
+nel
+2025-04-29 07:53:48 | Navegación | Usuario: admin - Acceso a: /Panel/Errores
+2025-04-29 07:53:51 | Navegación | Usuario: admin - Acceso a: /Panel/Bitacora
+2025-04-29 07:54:00 | Productos | Consulta de todos los productos
+nel
+2025-04-29 07:56:47 | Productos | Consulta de todos los productos
+2025-04-29 07:56:47 | Navegación | Usuario: admin - Acceso a: /Panel
+2025-04-29 08:00:01 | Autenticación | Inicio de sesión exitoso: admin
+2025-04-29 08:00:01 | Navegación | Usuario: admin - Acceso a: /Panel
+2025-04-29 08:00:01 | Productos | Consulta de todos los productos
+2025-04-29 08:00:09 | Navegación | Usuario: admin - Acceso a: /Api/Rest
+2025-04-29 08:00:09 | API REST | Consultando productos desde https://fakestoreapi.com/products
+2025-04-29 08:00:10 | API REST | Obtenidos 20 productos de la API
+2025-04-29 08:00:16 | Navegación | Usuario: admin - Acceso a: /Api/DetalleProducto/1
+2025-04-29 08:00:16 | API REST | Consultando producto con ID 1 desde https://fakestoreapi.com/products/1
+2025-04-29 08:00:16 | API REST | Obtenido producto: Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops
+2025-04-29 08:00:20 | API REST | Consultando productos desde https://fakestoreapi.com/products
+2025-04-29 08:00:20 | API REST | Obtenidos 20 productos de la API
+2025-04-29 08:00:37 | Navegación | Usuario: admin - Acceso a: /Api/Soap
+2025-04-29 08:00:37 | API SOAP | Consultando información del país con código ES
+2025-04-29 08:00:37 | API SOAP | Consultando capital del país con código ES
+2025-04-29 08:00:38 | API SOAP | Obtenida capital: Madrid para país con código ES
+2025-04-29 08:00:38 | API SOAP | Consultando información del país con código US
+2025-04-29 08:00:38 | API SOAP | Obtenida capital: Washington para país con código US
+2025-04-29 08:00:38 | API SOAP | Obtenido nombre de país: United States para código US
+2025-04-29 08:00:38 | API SOAP | Consultando información del país con código MX
+2025-04-29 08:00:38 | API SOAP | Consultando capital del país con código MX
+2025-04-29 08:00:38 | API SOAP | Obtenida capital: Mexico City para país con código MX
+2025-04-29 08:00:38 | API SOAP | Obtenido nombre de país: Mexico para código MX
+2025-04-29 08:00:38 | API SOAP | Consultando capital del país con código BR
+o BR
+2025-04-29 08:00:38 | API SOAP | Obtenido nombre de país: Brazil para código BR
+2025-04-29 08:00:38 | API SOAP | Obtenida capital: Brasilia para país con código BR
+2025-04-29 08:00:38 | API SOAP | Consultando capital del país con código JP
+o JP
+2025-04-29 08:00:38 | API SOAP | Obtenido nombre de país: Japan para código JP
+2025-04-29 08:00:38 | API SOAP | Obtenida capital: Tokyo para país con código JP
+2025-04-29 08:00:40 | Navegación | Usuario: admin - Acceso a: /Api/Rest
+storeapi.com/products
+2025-04-29 08:00:41 | API REST | Obtenidos 20 productos de la API
+2025-04-29 08:00:42 | Productos | Consulta de todos los productos
+nel
+2025-04-29 08:00:44 | Navegación | Usuario: admin - Acceso a: /Panel/Errores
+2025-04-29 08:00:46 | Navegación | Usuario: admin - Acceso a: /Panel/Bitacora
+2025-04-29 08:00:54 | Productos | Consulta de todos los productos
+nel
+2025-04-29 08:00:55 | Productos | Consulta de todos los productos
+nel
+2025-04-29 08:02:26 | Navegación | Usuario: admin - Acceso a: /Panel
+2025-04-29 08:02:46 | Productos | Consulta de todos los productos
+nel
+2025-04-29 08:03:01 | Navegación | Usuario: admin - Acceso a: /Productos/Crear
+2025-04-29 08:03:03 | Productos | Consulta de todos los productos
+nel
+2025-04-29 08:03:05 | Navegación | Usuario: admin - Acceso a: /Productos/ObtenerProducto
+2025-04-29 08:03:05 | Productos | Consulta del producto: Silla Ergonómica Inteligente (ID: e7b130c4-812c-4e0c-8264-cbb0d9836b48)
+2025-04-29 08:03:11 | Productos | Consulta de todos los productos
+nel
+2025-04-29 08:12:19 | Autenticación | Inicio de sesión exitoso: admin
+2025-04-29 08:12:19 | Navegación | Usuario: admin - Acceso a: /Panel
+2025-04-29 08:12:19 | Productos | Consulta de todos los productos
+2025-04-29 08:16:40 | Navegación | Usuario: admin - Acceso a: /Panel/Bitacora
+2025-04-29 08:16:42 | Productos | Consulta de todos los productos
+nel
+2025-04-29 08:18:40 | Autenticación | Inicio de sesión exitoso: admin
+2025-04-29 08:18:40 | Navegación | Usuario: admin - Acceso a: /Panel
+2025-04-29 08:18:40 | Productos | Consulta de todos los productos
+2025-04-29 08:18:45 | Autenticación | Cierre de sesión: admin
+2025-04-29 08:19:17 | Autenticación | Inicio de sesión exitoso: admin
+2025-04-29 08:19:17 | Productos | Consulta de todos los productos
+nel
+2025-04-29 08:19:36 | Navegación | Usuario: admin - Acceso a: /Productos/Crear
+2025-04-29 08:19:56 | Productos | Consulta de todos los productos
+nel
+2025-04-29 08:20:19 | Navegación | Usuario: admin - Acceso a: /Panel/Bitacora
+2025-04-29 08:20:28 | Navegación | Usuario: admin - Acceso a: /Api/Rest
+2025-04-29 08:20:28 | API REST | Consultando productos desde https://fakestoreapi.com/products
+2025-04-29 08:20:29 | API REST | Obtenidos 20 productos de la API
+2025-04-29 08:20:32 | Navegación | Usuario: admin - Acceso a: /Api/DetalleProducto/2
+2025-04-29 08:20:32 | API REST | Consultando producto con ID 2 desde https://fakestoreapi.com/products/2
+2025-04-29 08:20:32 | API REST | Obtenido producto: Mens Casual Premium Slim Fit T-Shirts 
+2025-04-29 08:20:34 | Navegación | Usuario: admin - Acceso a: /Api/Rest
+storeapi.com/products
+2025-04-29 08:20:34 | API REST | Obtenidos 20 productos de la API
+2025-04-29 08:21:10 | Navegación | Usuario: admin - Acceso a: /Api/Soap
+2025-04-29 08:21:10 | API SOAP | Consultando información del país con código ES
+2025-04-29 08:21:10 | API SOAP | Consultando capital del país con código ES
+2025-04-29 08:21:10 | API SOAP | Obtenido nombre de país: Spain para código ES
+ES
+2025-04-29 08:21:10 | API SOAP | Consultando información del país con código US
+2025-04-29 08:21:10 | API SOAP | Consultando capital del país con código US
+2025-04-29 08:21:10 | API SOAP | Obtenido nombre de país: United States para código US
+2025-04-29 08:21:10 | API SOAP | Obtenida capital: Washington para país con código US
+2025-04-29 08:21:10 | API SOAP | Consultando información del país con código MX
+2025-04-29 08:21:11 | API SOAP | Obtenido nombre de país: Mexico para código MX
+2025-04-29 08:21:11 | API SOAP | Obtenida capital: Mexico City para país con código MX
+2025-04-29 08:21:11 | API SOAP | Consultando información del país con código BR
+2025-04-29 08:21:11 | API SOAP | Consultando capital del país con código BR
+2025-04-29 08:21:11 | API SOAP | Obtenido nombre de país: Brazil para código BR
+2025-04-29 08:21:11 | API SOAP | Obtenida capital: Brasilia para país con código BR
+2025-04-29 08:21:11 | API SOAP | Consultando capital del país con código JP
+o JP
+2025-04-29 08:21:11 | API SOAP | Obtenido nombre de país: Japan para código JP
+2025-04-29 08:21:11 | API SOAP | Obtenida capital: Tokyo para país con código JP
+2025-04-29 08:21:29 | Navegación | Usuario: admin - Acceso a: /Api/Rest
+storeapi.com/products
+2025-04-29 08:22:10 | Productos | Consulta de todos los productos
+2025-04-29 08:22:10 | Navegación | Usuario: admin - Acceso a: /Panel
+2025-04-29 08:22:13 | Navegación | Usuario: admin - Acceso a: /Productos/ObtenerProducto
+2025-04-29 08:22:13 | Productos | Consulta del producto: Silla Ergonómica Inteligente (ID: e7b130c4-812c-4e0c-8264-cbb0d9836b48)
+2025-04-29 08:22:14 | Navegación | Usuario: admin - Acceso a: /Productos/Editar/e7b130c4-812c-4e0c-8264-cbb0d9836b48
+2025-04-29 08:22:14 | Productos | Producto actualizado: Silla Ergonómica Inteligente (ID: e7b130c4-812c-4e0c-8264-cbb0d9836b48)
+2025-04-29 08:22:14 | Productos | Consulta de todos los productos
+2025-04-29 08:22:14 | Navegación | Usuario: admin - Acceso a: /Panel
+2025-04-29 08:22:17 | Productos | Consulta de todos los productos
+nel
+2025-04-29 08:22:32 | Autenticación | Cierre de sesión: admin
+2025-04-29 08:28:16 | Autenticación | Inicio de sesión exitoso: admin
+2025-04-29 08:28:16 | Navegación | Usuario: admin - Acceso a: /Panel
+2025-04-29 08:28:16 | Productos | Consulta de todos los productos
+2025-04-29 08:28:19 | Navegación | Usuario: admin - Acceso a: /Panel
+2025-04-29 08:28:19 | Productos | Consulta de todos los productos
+2025-04-29 08:28:24 | Productos | Consulta de todos los productos
+nel
+2025-04-29 08:28:26 | Navegación | Usuario: admin - Acceso a: /Panel/Errores
+2025-04-29 08:28:32 | Productos | Consulta de todos los productos
+nel
+2025-04-29 08:28:34 | Autenticación | Cierre de sesión: admin
+2025-04-29 08:31:40 | Autenticación | Inicio de sesión exitoso: admin
+2025-04-29 08:31:40 | Navegación | Usuario: admin - Acceso a: /Panel
