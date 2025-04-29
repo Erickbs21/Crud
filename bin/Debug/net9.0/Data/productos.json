@@ -1,12 +1,32 @@
 [
   {
-    "Id": "e7b130c4-812c-4e0c-8264-cbb0d9836b48",
-    "Nombre": "Silla Ergon\u00F3mica Inteligente",
-    "Descripcion": "Silla de oficina con ajuste autom\u00E1tico y soporte lumbar adaptativo eww",
-    "Categoria": "Otro",
-    "Precio": 349.99,
-    "ImagenUrl": "/img/silla.png",
-    "FechaCreacion": "2025-04-29T06:53:07.0884346-06:00",
-    "FechaActualizacion": "2025-04-29T08:22:14.238724-06:00"
+    "Id": "9bc2f1fb-ad33-480f-89c0-cd4f2ebbe429",
+    "Nombre": "qw",
+    "Descripcion": "qwe",
+    "Categoria": "Hogar",
+    "Precio": 12.1,
+    "ImagenUrl": "google.com",
+    "FechaCreacion": "2025-04-29T10:12:37.052803-06:00",
+    "FechaActualizacion": "2025-04-29T10:13:07.458716-06:00"
+  },
+  {
+    "Id": "c35475ba-fa2b-4041-a817-ff49fb6d2f56",
+    "Nombre": "asdfwq",
+    "Descripcion": "asd",
+    "Categoria": "Electr\u00F3nica",
+    "Precio": 12,
+    "ImagenUrl": "google.com",
+    "FechaCreacion": "2025-04-29T10:12:54.2515539-06:00",
+    "FechaActualizacion": "2025-04-29T10:12:54.2515548-06:00"
+  },
+  {
+    "Id": "d62894d0-9881-4925-8492-a3499bd63f37",
+    "Nombre": "qweq",
+    "Descripcion": "qwe",
+    "Categoria": "Ropa",
+    "Precio": 23,
+    "ImagenUrl": "google.com",
+    "FechaCreacion": "2025-04-29T10:29:09.1002457-06:00",
+    "FechaActualizacion": "2025-04-29T10:29:09.1002518-06:00"
   }
 ]

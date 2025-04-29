@@ -4,9 +4,9 @@
 }
 
 <header>
-    <nav class="navbar navbar-expand-lg navbar-light navbar-futurista">
+    <nav class="navbar navbar-expand-lg navbar-dark navbar-futurista">
         <div class="container">
-            <a class="navbar-brand d-flex align-items-center" asp-controller="Panel" asp-action="Index">
+            <a class="navbar-brand d-flex align-items-center text-white" asp-controller="Panel" asp-action="Index">
                 <i class="bi bi-hexagon-fill text-primary me-2"></i>
                 <span class="fw-bold">NeoGestión</span>
             </a>
@@ -17,12 +17,12 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link" asp-controller="Panel" asp-action="Index">
+                        <a class="nav-link text-white" asp-controller="Panel" asp-action="Index">
                             <i class="bi bi-grid-3x3-gap me-1"></i> Panel
                         </a>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="apiDropdown" role="button"
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="apiDropdown" role="button"
                            data-bs-toggle="dropdown" aria-expanded="false">
                             <i class="bi bi-cloud me-1"></i> APIs
                         </a>
@@ -42,7 +42,7 @@
                     @if (rol == "Administrador")
                     {
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="adminDropdown" role="button"
+                            <a class="nav-link dropdown-toggle text-white" href="#" id="adminDropdown" role="button"
                                data-bs-toggle="dropdown" aria-expanded="false">
                                 <i class="bi bi-shield-lock me-1"></i> Administración
                             </a>
@@ -63,7 +63,7 @@
                 </ul>
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle d-flex align-items-center" href="#" id="userDropdown" role="button"
+                        <a class="nav-link dropdown-toggle d-flex align-items-center text-white" href="#" id="userDropdown" role="button"
                            data-bs-toggle="dropdown" aria-expanded="false">
                             <div class="avatar-circle me-2">
                                 <span class="avatar-text">@nombreUsuario.Substring(0, 1).ToUpper()</span>
@@ -72,6 +72,9 @@
                         </a>
                         <ul class="dropdown-menu dropdown-menu-dark dropdown-menu-end" aria-labelledby="userDropdown">
                             <li>
+                                <div class="dropdown-item-text text-muted small">
+                                    <i class="bi bi-person-badge me-1"></i> @rol
+                                </div>
                             </li>
                             <li><hr class="dropdown-divider"></li>
                             <li>

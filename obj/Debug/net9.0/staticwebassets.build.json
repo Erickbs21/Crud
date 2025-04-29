@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+X7VNDRoOlWgvQhbaW80O6QuckxmctQfxpTqeSd0r34=",
+  "Hash": "mGQW4OYRU/QYCsJvHdkR9B5evyJhltPJgWbxjeDhSws=",
   "Source": "Crud",
   "BasePath": "_content/Crud",
   "Mode": "Default",
@@ -16,27 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "/home/yann/Descargas/Crud/obj/Debug/net9.0/compressed/08z5w4zlyx-g3nfrwf6hu.gz",
-      "SourceId": "Crud",
-      "SourceType": "Discovered",
-      "ContentRoot": "/home/yann/Descargas/Crud/obj/Debug/net9.0/compressed/",
-      "BasePath": "_content/Crud",
-      "RelativePath": "css/navbar-styles#[.{fingerprint=g3nfrwf6hu}]?.css.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/yann/Descargas/Crud/wwwroot/css/navbar-styles.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "ps7xji8mt3",
-      "Integrity": "R9/28yJ68RHnkQH+oiV1Z0wFwnFUCUzI6YjF4KYXXEw=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/yann/Descargas/Crud/wwwroot/css/navbar-styles.css"
-    },
     {
       "Identity": "/home/yann/Descargas/Crud/obj/Debug/net9.0/compressed/0mhyymbdyj-ttgo8qnofa.gz",
       "SourceId": "Crud",
@@ -1172,12 +1151,12 @@
       "OriginalItemSpec": "/home/yann/Descargas/Crud/wwwroot/favicon.ico"
     },
     {
-      "Identity": "/home/yann/Descargas/Crud/obj/Debug/net9.0/compressed/sn9xk09un2-x30ttcjc6c.gz",
+      "Identity": "/home/yann/Descargas/Crud/obj/Debug/net9.0/compressed/sn9xk09un2-st39qzexeh.gz",
       "SourceId": "Crud",
       "SourceType": "Discovered",
       "ContentRoot": "/home/yann/Descargas/Crud/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/Crud",
-      "RelativePath": "css/site#[.{fingerprint=x30ttcjc6c}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=st39qzexeh}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1186,8 +1165,8 @@
       "RelatedAsset": "/home/yann/Descargas/Crud/wwwroot/css/site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "3g2rc1c3h7",
-      "Integrity": "I/Ud0YUY7Pk6SMtQoQxW9GpCt0JjpJwlZghnSvnrRCE=",
+      "Fingerprint": "mpl0cg8fe3",
+      "Integrity": "FobpLFpRnS6f9XfPEJ1GzS/b2MWqrLquscUNpN9k4Gg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/yann/Descargas/Crud/wwwroot/css/site.css"
@@ -1424,27 +1403,6 @@
       "OriginalItemSpec": "/home/yann/Descargas/Crud/obj/Debug/net9.0/scopedcss/projectbundle/Crud.bundle.scp.css"
     },
     {
-      "Identity": "/home/yann/Descargas/Crud/wwwroot/css/navbar-styles.css",
-      "SourceId": "Crud",
-      "SourceType": "Discovered",
-      "ContentRoot": "/home/yann/Descargas/Crud/wwwroot/",
-      "BasePath": "_content/Crud",
-      "RelativePath": "css/navbar-styles#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "g3nfrwf6hu",
-      "Integrity": "rA009F2a4DR9OH9+s7i41A12+Gg2S/9+gQcRpezEktU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/navbar-styles.css"
-    },
-    {
       "Identity": "/home/yann/Descargas/Crud/wwwroot/css/site.css",
       "SourceId": "Crud",
       "SourceType": "Discovered",
@@ -1459,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "x30ttcjc6c",
-      "Integrity": "zcJ6c6ngoeNx7npKeYAnTuBUiMrEkayBHCZjkbjescw=",
+      "Fingerprint": "st39qzexeh",
+      "Integrity": "oGHgiR1q48MmMThIzYJRUC9c806JIkKzRkV8i6Fd5dw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/site.css"
@@ -3366,311 +3324,13 @@
       ]
     },
     {
-      "Route": "css/navbar-styles.css",
-      "AssetFile": "/home/yann/Descargas/Crud/obj/Debug/net9.0/compressed/08z5w4zlyx-g3nfrwf6hu.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.002583979328"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "386"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"R9/28yJ68RHnkQH+oiV1Z0wFwnFUCUzI6YjF4KYXXEw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 14:10:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"rA009F2a4DR9OH9+s7i41A12+Gg2S/9+gQcRpezEktU=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-rA009F2a4DR9OH9+s7i41A12+Gg2S/9+gQcRpezEktU="
-        }
-      ]
-    },
-    {
-      "Route": "css/navbar-styles.css",
-      "AssetFile": "/home/yann/Descargas/Crud/wwwroot/css/navbar-styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1142"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rA009F2a4DR9OH9+s7i41A12+Gg2S/9+gQcRpezEktU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 14:10:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-rA009F2a4DR9OH9+s7i41A12+Gg2S/9+gQcRpezEktU="
-        }
-      ]
-    },
-    {
-      "Route": "css/navbar-styles.css.gz",
-      "AssetFile": "/home/yann/Descargas/Crud/obj/Debug/net9.0/compressed/08z5w4zlyx-g3nfrwf6hu.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "386"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"R9/28yJ68RHnkQH+oiV1Z0wFwnFUCUzI6YjF4KYXXEw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 14:10:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-R9/28yJ68RHnkQH+oiV1Z0wFwnFUCUzI6YjF4KYXXEw="
-        }
-      ]
-    },
-    {
-      "Route": "css/navbar-styles.g3nfrwf6hu.css",
-      "AssetFile": "/home/yann/Descargas/Crud/obj/Debug/net9.0/compressed/08z5w4zlyx-g3nfrwf6hu.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.002583979328"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "386"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"R9/28yJ68RHnkQH+oiV1Z0wFwnFUCUzI6YjF4KYXXEw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 14:10:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"rA009F2a4DR9OH9+s7i41A12+Gg2S/9+gQcRpezEktU=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "g3nfrwf6hu"
-        },
-        {
-          "Name": "label",
-          "Value": "css/navbar-styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rA009F2a4DR9OH9+s7i41A12+Gg2S/9+gQcRpezEktU="
-        }
-      ]
-    },
-    {
-      "Route": "css/navbar-styles.g3nfrwf6hu.css",
-      "AssetFile": "/home/yann/Descargas/Crud/wwwroot/css/navbar-styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1142"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rA009F2a4DR9OH9+s7i41A12+Gg2S/9+gQcRpezEktU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 14:10:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "g3nfrwf6hu"
-        },
-        {
-          "Name": "label",
-          "Value": "css/navbar-styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rA009F2a4DR9OH9+s7i41A12+Gg2S/9+gQcRpezEktU="
-        }
-      ]
-    },
-    {
-      "Route": "css/navbar-styles.g3nfrwf6hu.css.gz",
-      "AssetFile": "/home/yann/Descargas/Crud/obj/Debug/net9.0/compressed/08z5w4zlyx-g3nfrwf6hu.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "386"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"R9/28yJ68RHnkQH+oiV1Z0wFwnFUCUzI6YjF4KYXXEw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 14:10:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "g3nfrwf6hu"
-        },
-        {
-          "Name": "label",
-          "Value": "css/navbar-styles.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-R9/28yJ68RHnkQH+oiV1Z0wFwnFUCUzI6YjF4KYXXEw="
-        }
-      ]
-    },
-    {
       "Route": "css/site.css",
-      "AssetFile": "/home/yann/Descargas/Crud/obj/Debug/net9.0/compressed/sn9xk09un2-x30ttcjc6c.gz",
+      "AssetFile": "/home/yann/Descargas/Crud/obj/Debug/net9.0/compressed/sn9xk09un2-st39qzexeh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001369863014"
+          "Quality": "0.000364963504"
         }
       ],
       "ResponseHeaders": [
@@ -3680,15 +3340,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "729"
+          "Value": "2739"
         },
         {
           "Name": "ETag",
-          "Value": "\"I/Ud0YUY7Pk6SMtQoQxW9GpCt0JjpJwlZghnSvnrRCE=\""
+          "Value": "\"FobpLFpRnS6f9XfPEJ1GzS/b2MWqrLquscUNpN9k4Gg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 14:15:08 GMT"
+          "Value": "Tue, 29 Apr 2025 17:14:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3708,13 +3368,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"zcJ6c6ngoeNx7npKeYAnTuBUiMrEkayBHCZjkbjescw=\""
+          "Value": "W/\"oGHgiR1q48MmMThIzYJRUC9c806JIkKzRkV8i6Fd5dw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zcJ6c6ngoeNx7npKeYAnTuBUiMrEkayBHCZjkbjescw="
+          "Value": "sha256-oGHgiR1q48MmMThIzYJRUC9c806JIkKzRkV8i6Fd5dw="
         }
       ]
     },
@@ -3729,7 +3389,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1770"
+          "Value": "11234"
         },
         {
           "Name": "Content-Type",
@@ -3737,11 +3397,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zcJ6c6ngoeNx7npKeYAnTuBUiMrEkayBHCZjkbjescw=\""
+          "Value": "\"oGHgiR1q48MmMThIzYJRUC9c806JIkKzRkV8i6Fd5dw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 14:15:08 GMT"
+          "Value": "Tue, 29 Apr 2025 17:14:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3751,13 +3411,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zcJ6c6ngoeNx7npKeYAnTuBUiMrEkayBHCZjkbjescw="
+          "Value": "sha256-oGHgiR1q48MmMThIzYJRUC9c806JIkKzRkV8i6Fd5dw="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "/home/yann/Descargas/Crud/obj/Debug/net9.0/compressed/sn9xk09un2-x30ttcjc6c.gz",
+      "AssetFile": "/home/yann/Descargas/Crud/obj/Debug/net9.0/compressed/sn9xk09un2-st39qzexeh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3766,7 +3426,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "729"
+          "Value": "2739"
         },
         {
           "Name": "Content-Type",
@@ -3774,11 +3434,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"I/Ud0YUY7Pk6SMtQoQxW9GpCt0JjpJwlZghnSvnrRCE=\""
+          "Value": "\"FobpLFpRnS6f9XfPEJ1GzS/b2MWqrLquscUNpN9k4Gg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 14:15:08 GMT"
+          "Value": "Tue, 29 Apr 2025 17:14:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3796,18 +3456,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-I/Ud0YUY7Pk6SMtQoQxW9GpCt0JjpJwlZghnSvnrRCE="
+          "Value": "sha256-FobpLFpRnS6f9XfPEJ1GzS/b2MWqrLquscUNpN9k4Gg="
         }
       ]
     },
     {
-      "Route": "css/site.x30ttcjc6c.css",
-      "AssetFile": "/home/yann/Descargas/Crud/obj/Debug/net9.0/compressed/sn9xk09un2-x30ttcjc6c.gz",
+      "Route": "css/site.st39qzexeh.css",
+      "AssetFile": "/home/yann/Descargas/Crud/obj/Debug/net9.0/compressed/sn9xk09un2-st39qzexeh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001369863014"
+          "Quality": "0.000364963504"
         }
       ],
       "ResponseHeaders": [
@@ -3817,15 +3477,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "729"
+          "Value": "2739"
         },
         {
           "Name": "ETag",
-          "Value": "\"I/Ud0YUY7Pk6SMtQoQxW9GpCt0JjpJwlZghnSvnrRCE=\""
+          "Value": "\"FobpLFpRnS6f9XfPEJ1GzS/b2MWqrLquscUNpN9k4Gg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 14:15:08 GMT"
+          "Value": "Tue, 29 Apr 2025 17:14:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3845,13 +3505,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"zcJ6c6ngoeNx7npKeYAnTuBUiMrEkayBHCZjkbjescw=\""
+          "Value": "W/\"oGHgiR1q48MmMThIzYJRUC9c806JIkKzRkV8i6Fd5dw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "x30ttcjc6c"
+          "Value": "st39qzexeh"
         },
         {
           "Name": "label",
@@ -3859,12 +3519,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zcJ6c6ngoeNx7npKeYAnTuBUiMrEkayBHCZjkbjescw="
+          "Value": "sha256-oGHgiR1q48MmMThIzYJRUC9c806JIkKzRkV8i6Fd5dw="
         }
       ]
     },
     {
-      "Route": "css/site.x30ttcjc6c.css",
+      "Route": "css/site.st39qzexeh.css",
       "AssetFile": "/home/yann/Descargas/Crud/wwwroot/css/site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3874,7 +3534,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1770"
+          "Value": "11234"
         },
         {
           "Name": "Content-Type",
@@ -3882,11 +3542,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zcJ6c6ngoeNx7npKeYAnTuBUiMrEkayBHCZjkbjescw=\""
+          "Value": "\"oGHgiR1q48MmMThIzYJRUC9c806JIkKzRkV8i6Fd5dw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 14:15:08 GMT"
+          "Value": "Tue, 29 Apr 2025 17:14:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3896,7 +3556,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "x30ttcjc6c"
+          "Value": "st39qzexeh"
         },
         {
           "Name": "label",
@@ -3904,13 +3564,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zcJ6c6ngoeNx7npKeYAnTuBUiMrEkayBHCZjkbjescw="
+          "Value": "sha256-oGHgiR1q48MmMThIzYJRUC9c806JIkKzRkV8i6Fd5dw="
         }
       ]
     },
     {
-      "Route": "css/site.x30ttcjc6c.css.gz",
-      "AssetFile": "/home/yann/Descargas/Crud/obj/Debug/net9.0/compressed/sn9xk09un2-x30ttcjc6c.gz",
+      "Route": "css/site.st39qzexeh.css.gz",
+      "AssetFile": "/home/yann/Descargas/Crud/obj/Debug/net9.0/compressed/sn9xk09un2-st39qzexeh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3919,7 +3579,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "729"
+          "Value": "2739"
         },
         {
           "Name": "Content-Type",
@@ -3927,11 +3587,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"I/Ud0YUY7Pk6SMtQoQxW9GpCt0JjpJwlZghnSvnrRCE=\""
+          "Value": "\"FobpLFpRnS6f9XfPEJ1GzS/b2MWqrLquscUNpN9k4Gg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 14:15:08 GMT"
+          "Value": "Tue, 29 Apr 2025 17:14:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3949,7 +3609,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "x30ttcjc6c"
+          "Value": "st39qzexeh"
         },
         {
           "Name": "label",
@@ -3957,7 +3617,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-I/Ud0YUY7Pk6SMtQoQxW9GpCt0JjpJwlZghnSvnrRCE="
+          "Value": "sha256-FobpLFpRnS6f9XfPEJ1GzS/b2MWqrLquscUNpN9k4Gg="
         }
       ]
     },

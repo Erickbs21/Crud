@@ -52,11 +52,11 @@
                             <span>Refresh</span>
                         </button>
                         
-                        <button type="button" class="btn btn-primary btn-gradient d-flex align-items-center gap-2" 
-                                data-bs-toggle="modal" data-bs-target="#itemModal" onclick="resetItemForm()">
-                            <i class="bi bi-plus-circle"></i>
-                            <span>Add New Item</span>
-                        </button>
+                        <a href="@Url.Action("Create", "Productos")" class="btn btn-primary btn-gradient d-flex align-items-center gap-2">
+    <i class="bi bi-plus-circle"></i>
+    <span>Add New Item</span>
+</a>
+
                     </div>
                 </div>
             </div>

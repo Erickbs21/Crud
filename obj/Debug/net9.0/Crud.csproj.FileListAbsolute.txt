@@ -100,5 +100,5 @@
 /home/yann/Descargas/Crud/bin/Debug/net9.0/Data/usuarios.json
 /home/yann/Descargas/Crud/obj/Debug/net9.0/compressed/raiwqfi5ze-wsqb0mlo4j.gz
 /home/yann/Descargas/Crud/obj/Debug/net9.0/compressed/55ici6lsqj-wsqb0mlo4j.gz
-/home/yann/Descargas/Crud/obj/Debug/net9.0/compressed/08z5w4zlyx-g3nfrwf6hu.gz
-/home/yann/Descargas/Crud/obj/Debug/net9.0/compressed/sn9xk09un2-x30ttcjc6c.gz
+/home/yann/Descargas/Crud/obj/Debug/net9.0/Crud.sourcelink.json
+/home/yann/Descargas/Crud/obj/Debug/net9.0/compressed/sn9xk09un2-st39qzexeh.gz

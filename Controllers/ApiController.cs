@@ -73,20 +73,5 @@ namespace AppFuturista.Controllers
                 return RedirectToAction("Error", "Home", new { mensaje = "Error al consultar la API SOAP" });
             }
         }
-        
-        [HttpGet]
-        public async Task<IActionResult> DetalleProducto(int id)
-        {
-            try
-            {
-                var producto = await _apiRestService.ObtenerProductoPorIdAsync(id);
-                return View(producto);
-            }
-            catch (Exception ex)
-            {
-                await _bitacoraService.RegistrarErrorAsync("API", $"Error al consultar detalle de producto API REST (ID: {id})", ex);
-                return RedirectToAction("Error", "Home", new { mensaje = "Error al consultar el detalle del producto" });
-            }
-        }
     }
 }

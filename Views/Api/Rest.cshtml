@@ -1,5 +1,4 @@
 @model IEnumerable<AppFuturista.Models.ProductoApiDTO>
-
 @{
     ViewData["Title"] = "API REST";
 }
@@ -57,49 +56,34 @@
     </div>
     
     <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
-        @if (Model == null || !Model.Any())
+        @foreach (var producto in Model)
         {
-            <div class="col-12">
-                <div class="alert alert-warning text-center">
-                    No se encontraron productos disponibles en este momento.
-                </div>
-            </div>
-        }
-        else
-        {
-            @foreach (var producto in Model)
-            {
-                <div class="col">
-                    <div class="card card-producto h-100">
-                        <div class="card-img-container">
-                            <img src="@producto.Image ?? '/images/default-image.jpg'" class="card-img-top" alt="@producto.Title ?? 'Sin título'">
+            <div class="col">
+                <div class="card card-producto h-100">
+                    <div class="card-img-container">
+                        <img src="@producto.Image" class="card-img-top" alt="@producto.Title">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">@producto.Title</h5>
+                        <p class="card-text text-truncate-3">@producto.Description</p>
+                        <div class="d-flex justify-content-between align-items-center mt-3">
+                            <span class="precio">$@producto.Price.ToString("0.00")</span>
+                            <span class="badge bg-primary bg-opacity-25 text-primary border border-primary border-opacity-25">
+                                @producto.Category
+                            </span>
                         </div>
-                        <div class="card-body">
-                            <h5 class="card-title">@producto.Title ?? 'Título no disponible'</h5>
-                            <p class="card-text text-truncate-3">@producto.Description ?? 'Descripción no disponible'</p>
-                            <div class="d-flex justify-content-between align-items-center mt-3">
-                                <span class="precio">$@producto.Price.ToString("0.00")</span>
-                                <span class="badge bg-primary bg-opacity-25 text-primary border border-primary border-opacity-25">
-                                    @producto.Category
-                                </span>
-                            </div>
-                        </div>
-                        <div class="card-footer">
-                            <div class="d-flex justify-content-between align-items-center">
-                                <div class="rating">
-                                    <i class="bi bi-star-fill text-warning"></i>
-                                    <span>@producto.Rating.Rate.ToString("0.0")</span>
-                                    <span class="text-muted small">(@producto.Rating.Count)</span>
-                                </div>
-                                <a asp-controller="Api" asp-action="DetalleProducto" asp-route-id="@producto.Id" class="btn btn-sm btn-outline-primary">
-                                    <i class="bi bi-eye me-1"></i>
-                                    Detalle
-                                </a>
+                    </div>
+                    <div class="card-footer">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div class="rating">
+                                <i class="bi bi-star-fill text-warning"></i>
+                                <span>@producto.Rating.Rate.ToString("0.0")</span>
+                                <span class="text-muted small">(@producto.Rating.Count)</span>
                             </div>
                         </div>
                     </div>
                 </div>
-            }
+            </div>
         }
     </div>
 </div>
@@ -108,15 +92,20 @@
     <script>
         // Botón de refrescar
         document.getElementById('btnRefrescar').addEventListener('click', function() {
-            location.reload(); // Refresca la página
+            const icono = this.querySelector('i');
+            icono.classList.add('girar');
+            
+            setTimeout(() => {
+                window.location.reload();
+            }, 500);
         });
-
+        
         // Función para copiar al portapapeles
         function copiarAlPortapapeles(texto) {
             navigator.clipboard.writeText(texto).then(function() {
-                alert('Enlace copiado al portapapeles');
-            }).catch(function(error) {
-                console.error('Error al copiar:', error);
+                alert('URL copiada al portapapeles');
+            }, function() {
+                alert('No se pudo copiar la URL');
             });
         }
     </script>
